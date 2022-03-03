@@ -4,4 +4,7 @@
    <FileRef
       location = "group:Lesson1-hello-world/Lesson1-hello-world.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Lesson1-hello-world/Test1-Swift/Test1-Swift.xcodeproj">
+   </FileRef>
 </Workspace>
