@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Lesson1-hello-world/Lesson1-hello-world.xcodeproj">
+      location = "group:Lesson2-OC-Class/Lesson2-OC-Class.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Lesson1-hello-world/Test1-Swift/Test1-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Lesson1-hello-world/Lesson1-hello-world.xcodeproj">
    </FileRef>
 </Workspace>
